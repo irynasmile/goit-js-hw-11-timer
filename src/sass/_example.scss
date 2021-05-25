@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#timer-1 {
+  background: #222;
+  width: 500 px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.timer {
+  color: #fff;
+  font-size: 4rem;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  font-size: 2.5rem;
+  padding-right: 0.25rem;
+}
